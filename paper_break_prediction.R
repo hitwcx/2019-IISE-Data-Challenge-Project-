@@ -5,7 +5,7 @@ library(qcc)
 library(jmotif)
 library(glmnet)
 
-wd<-"C:/Users/Shenghan Guo/Downloads/Curriculum/Rutgers/research/Conference/IISE 2019/QCRE data challenge 2019"
+wd<-"C:/Users/.../Conference/IISE 2019/QCRE data challenge 2019"
 
 data.file<-"processminer-rare-event-mts - data.csv"
 
