@@ -1,0 +1,7 @@
+"window size: 100","window size: 500","window size: 1000"
+"FPR",0,0,0
+"FNR",1,1,1
+"accuracy",0.993038533189528,0.99316256760894,0.99290246263039
+"recall",NA,NA,NA
+"precision",0,0,0
+"F1 score",NA,NA,NA
